@@ -1,4 +1,4 @@
-FROM mageai/mageai:0.9.70
+FROM mageai/mageai:latest
 
 ARG PROJECT_NAME=mlops
 ARG MAGE_CODE_PATH=/home/src
